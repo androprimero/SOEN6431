@@ -1,0 +1,15 @@
+D:\alejandro\proyecto\option1\C#\Login_module\bin\Debug\Login_module.exe
+D:\alejandro\proyecto\option1\C#\Login_module\bin\Debug\Login_module.pdb
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\Login_module.csprojResolveAssemblyReference.cache
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\WindowsFormsApplication1.course.resources
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\WindowsFormsApplication1.department.resources
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\WindowsFormsApplication1.faculty.resources
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\WindowsFormsApplication1.Login.resources
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\WindowsFormsApplication1.register.resources
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\WindowsFormsApplication1.Resources.student_form.resources
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\WindowsFormsApplication1.student_data.resources
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\WindowsFormsApplication1.Student_form.resources
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\Login_module.csproj.GenerateResource.Cache
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\Login_module.exe
+D:\alejandro\proyecto\option1\C#\Login_module\obj\Debug\Login_module.pdb
